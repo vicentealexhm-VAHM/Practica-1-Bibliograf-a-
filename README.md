@@ -22,5 +22,5 @@ yo estoy encargado del mantenimiento de motores neumaticos.
 - Aprendo rapido
 
 ### Metas
-- ```aumenatar de cilindrada de moto```
+- ```Aumenatar de cilindrada de moto```
 -  ```Seguir mejorando mis habilidades y debilidades```
